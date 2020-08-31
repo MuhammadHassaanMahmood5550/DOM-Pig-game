@@ -1,4 +1,4 @@
-# Dice-game-step-one
+# DOM-pig-game
 
 
 - The game has 2 players, playing in rounds
